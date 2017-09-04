@@ -18,15 +18,8 @@
 .page-content{
   margin-top: 56px;
   padding-top: 50px;
-}/*
-.actions-modal.modal-in {
-  width: 100px;
-  height: 100px;
-  position: absolute;
-  top: 30px;
-  right: 30px;
-  left: auto;
-}*/
+}
+
 .popover-links{
   width: 200px;
   top: 30px !important;
