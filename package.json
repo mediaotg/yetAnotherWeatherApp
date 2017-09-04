@@ -4,5 +4,20 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "displayName": "Yet Another Weather App"
+    "displayName": "Yet Another Weather App",
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-console": {},
+            "cordova-plugin-statusbar": {},
+            "cordova-plugin-whitelist": {},
+            "cordova-plugin-geolocation": {}
+        }
+    },
+    "dependencies": {
+        "cordova-plugin-compat": "^1.1.0",
+        "cordova-plugin-console": "~1.0.1",
+        "cordova-plugin-geolocation": "^2.4.3",
+        "cordova-plugin-statusbar": "~1.0.1",
+        "cordova-plugin-whitelist": "~1.2.0"
+    }
 }
