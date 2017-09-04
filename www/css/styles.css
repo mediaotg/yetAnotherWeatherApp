@@ -28,6 +28,7 @@
   left: auto;
 }*/
 .popover-links{
+  width: 200px;
   top: 30px !important;
   right: 30px !important;
   left: auto !important;
