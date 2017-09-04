@@ -2,10 +2,10 @@
 <widget id="com.estyrosenberg.yetanotherweatherapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Yet Another Weather App</name>
     <description>
-        A basic Framework7 template for PhoneGap.
+        A simple weather app.
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="rosenbergesty@gmail.com" href="http://estyrosenberg.com">
+        Esty Rosenberg
     </author>
     <content src="index.html" />
     <access origin="*" />
